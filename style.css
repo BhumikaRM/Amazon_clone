@@ -10,6 +10,7 @@
     color: white;
     display: flex;
     align-items: center;
+    min-width: 1300px;
     
 }
 .nav-logo
@@ -50,6 +51,7 @@
     width: 620px;
     height: 40px;
     border-radius: 4px;
+    min-width: 600px;
 }
 .search-select{
     background-color: #f3f3f3;
@@ -99,6 +101,7 @@ span{
     color: white;
     align-items: center;
     font-size: 1rem;
+    min-width: 1300px;
 }
 .panel-ops p{
     display: inline;
@@ -120,6 +123,7 @@ span{
     display: flex;
     justify-content: center ;
     align-items: flex-end;
+    min-width: 1300px; 
 }
 .hero-msg{
     background-color: white;
@@ -165,7 +169,8 @@ span{
 }
 footer{
     margin-top: 15px;
-}
+    min-width: 1300px;
+ }
 .foot-panel1{
     background-color: #37475a;
     color: white;
@@ -174,6 +179,7 @@ footer{
     justify-content: center;
     align-items: center;
     font-size: 1rem;
+    min-width: 1300px; 
 }
 .foot-panel2{
     background-color: #222f3d;
@@ -181,6 +187,7 @@ footer{
     height: 300px;
     display: flex;
     justify-content: space-evenly;
+    min-width: 1300px;
 }
 ul{
     margin-top: 20px;
@@ -199,6 +206,7 @@ ul a{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-width: 1300px;
 }
 .logo{
     background-image: url("amazon_logo.png");
@@ -212,6 +220,7 @@ ul a{
     height: 80px;
     font-size: 1rem;
     text-align: center;
+    min-width: 1300px;
     
 }
 .pages{
